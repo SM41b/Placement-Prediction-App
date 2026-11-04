@@ -4,11 +4,13 @@ A Machine Learning web application that predicts whether a student is likely to 
 
 ## 🚀 Live Demo
 
-[Click here to try the Student Placement Predictor](YOUR_DEPLOYED_APP_URL)
+[Click here to try the Student Placement Predictor](https://placement-prediction-app-dvsqw9dqbhvcsudzoho7se.streamlit.app/)
+
+---
 
 ## 📸 Application Screenshots
 
-![Placement Prediction](House%20Price%20Prediction_ss.png)
+![Placement Predictor](Placement-Predictor%20Screenshot.png)
 
 ---
 
