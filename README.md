@@ -8,7 +8,7 @@ A Machine Learning web application that predicts whether a student is likely to 
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Application Screenshot
 
 ![Placement Predictor](Placement-Predictor%20Screenshot.png)
 
